@@ -1,1 +1,1 @@
-THE AI INFORMATION DOC HAS BEEN MOVED TO THIS URL: https://docs.google.com/document/d/1oHuwssPPUTa4dwczX_s3qg3iPfWE4VK-R52LN51GwI8/edit?usp=sharing
+Last updated 12/30/24
