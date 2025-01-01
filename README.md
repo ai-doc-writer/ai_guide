@@ -1,1 +1,3 @@
-THE AI INFORMATION DOC HAS BEEN MOVED TO THIS URL: https://docs.google.com/document/d/1oHuwssPPUTa4dwczX_s3qg3iPfWE4VK-R52LN51GwI8/edit?usp=sharing
+Accessible at: https://ai-doc-writer.github.io/ai_guide/
+
+last updated: 12/30/2024
